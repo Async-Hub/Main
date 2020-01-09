@@ -3,8 +3,20 @@ layout: page
 title: Software Architecture
 permalink: /software-architecture/
 ---
-Software Architecture
 
+[](#distributed-systems)
+#### Distributed Systems
+
+**Books**
+
+[.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
+
+**Videos**
+- [Events, Data points and Messages - Clemens Vasters](https://www.youtube.com/watch?v=ITrlLErsqzY&list=PLwCc4eC3nGb8HESZA9OaiyPyTd8gApxxo)
+
+[More on...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb8HESZA9OaiyPyTd8gApxxo)
+
+[](#domain-driven-design) 
 #### Domain-Driven Design
 
 **Books**
