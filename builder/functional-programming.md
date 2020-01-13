@@ -3,7 +3,7 @@ layout: page
 title: Functional Programming
 permalink: /functional-programming/
 ---
-#### Functional Programming on Microsoft .NET
+### Functional Programming on Microsoft .NET
 
 **Books**
 

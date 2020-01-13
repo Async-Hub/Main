@@ -5,7 +5,7 @@ permalink: /software-architecture/
 ---
 
 [](#distributed-systems)
-#### Distributed Systems
+### Distributed Systems
 
 **Books**
 
@@ -17,7 +17,7 @@ permalink: /software-architecture/
 [More on...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb8HESZA9OaiyPyTd8gApxxo)
 
 [](#domain-driven-design) 
-#### Domain-Driven Design
+### Domain-Driven Design
 
 **Books**
 
@@ -43,3 +43,11 @@ permalink: /software-architecture/
 **Resources**
 
 [Enterprise Craftsmanship by Vladimir Khorikov](https://enterprisecraftsmanship.com/)
+
+[](#software-design-patterns)
+### Software Design Patterns
+
+**Resources**
+
+[C# Design Patterns: State by Marc Gilbert](https://app.pluralsight.com/library/courses/c-sharp-design-patterns-state/table-of-contents)  
+[MVVM Pattern](https://prismlibrary.com/docs/wpf/legacy/Implementing-MVVM.html)
