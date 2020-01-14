@@ -47,6 +47,11 @@ permalink: /software-architecture/
 [](#software-design-patterns)
 ### Software Design Patterns
 
+**Books**
+
+[Patterns of Enterprise Application Architecture](https://learning.oreilly.com/library/view/patterns-of-enterprise/0321127420/)  
+[Dependency Injection Principles, Practices, and Patterns](https://learning.oreilly.com/library/view/dependency-injection-principles/9781617294730/)
+
 **Resources**
 
 [C# Design Patterns: State by Marc Gilbert](https://app.pluralsight.com/library/courses/c-sharp-design-patterns-state/table-of-contents)  

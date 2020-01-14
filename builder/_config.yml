@@ -2,8 +2,7 @@ title: Computer programming, Cloud and Distributed systems
 author: AsyncHub
 email: admin@asynchub.org
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is a representation of all useful content about 
-  software development which I caught during the past 10 years.
+  This site presents all the content which I found useful for me for the last ten years.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false # set to true to show excerpts on the homepage
