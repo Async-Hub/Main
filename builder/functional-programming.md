@@ -12,9 +12,10 @@ permalink: /functional-programming/
 
 **Videos**
 
-- [The power of composition - Scott Wlaschin](https://www.youtube.com/watch?v=oquuPOkz8xo&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo&index=13)
-- [The Functional Programmer's Toolkit - Scott Wlaschin](https://www.youtube.com/watch?v=Nrp_LZ-XGsY&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo&index=14)
-- [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo&index=7)
+- [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
+- [The power of composition - Scott Wlaschin](https://www.youtube.com/watch?v=oquuPOkz8xo&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
+- [The Functional Programmer's Toolkit - Scott Wlaschin](https://www.youtube.com/watch?v=Nrp_LZ-XGsY&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
+- [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
 
 [More on...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
 
