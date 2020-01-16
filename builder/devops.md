@@ -13,3 +13,7 @@ permalink: /devops/
 
 **Videos**
 - [DevOps For ASP.NET Developers Series](https://www.youtube.com/playlist?list=PLlrxD0HtieHgaH7L8UwhPztKDsdZBGZsj)
+
+**Resources**
+
+[GitFlow branching model](https://nvie.com/posts/a-successful-git-branching-model/)
