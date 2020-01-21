@@ -14,7 +14,11 @@ permalink: /software-architecture/
 **Videos**
 - [Events, Data points and Messages - Clemens Vasters](https://www.youtube.com/watch?v=ITrlLErsqzY&list=PLwCc4eC3nGb8HESZA9OaiyPyTd8gApxxo)
 
-[More on...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb8HESZA9OaiyPyTd8gApxxo)
+[More on AsyncHub - Distributed Systems...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb8HESZA9OaiyPyTd8gApxxo)
+
+**Articles**
+
+(MicroservicePremium)[https://www.martinfowler.com/bliki/MicroservicePremium.html]
 
 [](#domain-driven-design) 
 ### Domain-Driven Design
@@ -26,9 +30,10 @@ permalink: /software-architecture/
 
 **Videos**
 
-- [All Our Aggregates Are Wrong - Mauro Servienti](https://www.youtube.com/watch?v=KkzvQSuYd5I&list=PLwCc4eC3nGb9YV5sbl9Dc23WBcvEMrZaX&)
+- [Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU&list=PLwCc4eC3nGb9YV5sbl9Dc23WBcvEMrZaX)
+- [All Our Aggregates Are Wrong - Mauro Servienti](https://www.youtube.com/watch?v=KkzvQSuYd5I&list=PLwCc4eC3nGb9YV5sbl9Dc23WBcvEMrZaX)
 
-[More on...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb9YV5sbl9Dc23WBcvEMrZaX)
+[More on AsyncHub - Domain-Driven Design in Practice...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb9YV5sbl9Dc23WBcvEMrZaX)
 
 **Video Courses**
 
