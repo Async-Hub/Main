@@ -32,4 +32,5 @@ permalink: /functional-programming/
 
 [F# for fun and profit](https://fsharpforfunandprofit.com/)  
 [Ploeh Blog by Mark Seeman](https://blog.ploeh.dk/)  
-[Sergey Tihon's Blog](https://sergeytihon.com/)
+[Sergey Tihon's Blog](https://sergeytihon.com/)  
+[Tomas Petricek Site](http://tomasp.net/)

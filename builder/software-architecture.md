@@ -61,5 +61,5 @@ permalink: /software-architecture/
 
 [C# Design Patterns: State by Marc Gilbert](https://app.pluralsight.com/library/courses/c-sharp-design-patterns-state/table-of-contents)  
 [MVVM Pattern](https://prismlibrary.com/docs/wpf/legacy/Implementing-MVVM.html)
-[Repository Pattern by Martin Fowler](https://www.martinfowler.com/eaaCatalog/repository.html)
+[Repository Pattern by Martin Fowler](https://www.martinfowler.com/eaaCatalog/repository.html)  
 [Repository Pattern with C# and Entity Framework by Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM&list=PLwCc4eC3nGb-QFk_ppX6flPZq4GI3F0vA)
