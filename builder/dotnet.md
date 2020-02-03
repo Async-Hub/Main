@@ -40,6 +40,10 @@ permalink: /dotnet/
 [.NET Debugging for the Production Environment on Channel 9](https://channel9.msdn.com/Series/-NET-Debugging-Stater-Kit-for-the-Production-Environment)  
 [Defrag Tools #113 - PerfView Part 1 on Channel 9](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-113-PerfView-Part-1)
 
+**Articles**
+
+[ConfigureAwait FAQ](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+
 **Resources**
 
 [Vance Morrison's Weblog](https://blogs.msdn.microsoft.com/vancem/)
