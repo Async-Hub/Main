@@ -55,3 +55,7 @@ permalink: /dotnet/
 **Videos**
 
 [Pragmatic Unit Testing - Vladimir Khorikov](https://www.youtube.com/watch?v=5iJWOPaNZDA&list=PLwCc4eC3nGb83Ci1-JgnkbvSW6CGV_uyh)
+
+**Articles**
+
+[Devil's advocate](https://blog.ploeh.dk/2019/10/07/devils-advocate/)  
