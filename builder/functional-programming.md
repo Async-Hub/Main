@@ -17,7 +17,7 @@ permalink: /functional-programming/
 - [The Functional Programmer's Toolkit - Scott Wlaschin](https://www.youtube.com/watch?v=Nrp_LZ-XGsY&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
 - [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0&list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
 
-[More on...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
+[More on AsyncHub - Functional Programming on .NET...](https://www.youtube.com/playlist?list=PLwCc4eC3nGb8UT53UKSv92Y76Y-HFLcVo)
 
 **Video Courses**
 
