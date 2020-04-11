@@ -20,6 +20,10 @@ permalink: /software-architecture/
 
 [MicroservicePremium](https://www.martinfowler.com/bliki/MicroservicePremium.html)
 
+**Resources**
+
+[Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/)
+
 [](#domain-driven-design) 
 ### Domain-Driven Design
 

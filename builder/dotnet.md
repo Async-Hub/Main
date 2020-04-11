@@ -63,3 +63,4 @@ permalink: /dotnet/
 **Articles**
 
 [Devil's advocate](https://blog.ploeh.dk/2019/10/07/devils-advocate/)  
+[Repeatable execution](https://blog.ploeh.dk/2020/03/23/repeatable-execution/)
