@@ -42,7 +42,8 @@ permalink: /dotnet/
 
 **Articles**
 
-[ConfigureAwait FAQ](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
+[ConfigureAwait FAQ](https://devblogs.microsoft.com/dotnet/configureawait-faq/)  
+[.NET async/await in a single picture](https://tooslowexception.com/net-asyncawait-in-a-single-picture/)
 
 **Resources**
 
