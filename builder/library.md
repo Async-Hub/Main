@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Docs
-permalink: /docs/
+title: Library
+permalink: /library/
 ---
 ### [Docs AsyncHub](https://docs.asynchub.org)
 

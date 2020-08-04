@@ -15,6 +15,18 @@ permalink: /dotnet/
 [Effective Logging in ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-effective-logging/discussion)  
 [Understanding ASP.NET Core Security](https://app.pluralsight.com/library/courses/asp-dot-net-core-security-understanding/table-of-contents)  
 
+[](#concurrency)
+### Concurrency
+
+**Books**
+
+[Concurrency in C# Cookbook, 2nd Edition](https://learning.oreilly.com/library/view/concurrency-in-c/9781492054498/)  
+[Concurrency in .NET](https://learning.oreilly.com/library/view/concurrency-in-net/9781617292996/)
+
+**Resources**
+
+[Threading in C#, by Joe Albahari](http://www.albahari.com/threading/)  
+
 [](#dotnet-internals)
 ### .NET Internals
 
