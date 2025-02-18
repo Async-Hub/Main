@@ -3,12 +3,12 @@ layout: page
 title: Functional Programming
 permalink: /functional-programming/
 ---
-### Functional Programming on Microsoft .NET
+This page features essential reading and must-watch content about Functional Programming on Microsoft .NET.
 
 **Books**
 
-[F# for Fun and Profit](https://fsharpforfunandprofit.com/books/)  
-[Functional Programming in C#: How to write better C# code](https://learning.oreilly.com/library/view/functional-programming-in/9781617293955/)
+[Domain Modeling Made Functional](https://fsharpforfunandprofit.com/books/)  
+[Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition)
 
 **Videos**
 

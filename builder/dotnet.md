@@ -3,12 +3,14 @@ layout: page
 title: .NET
 permalink: /dotnet/
 ---
+This page features essential reading and must-watch content for professional .NET developers.
+
 [](#aspnet)
 ### ASP.NET
 
 **Books**
 
-[ASP.NET Core in Action](https://learning.oreilly.com/library/view/aspnet-core-in/9781617294617/)  
+[ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-third-edition)  
 
 **Video Courses**
 
@@ -16,12 +18,12 @@ permalink: /dotnet/
 [Understanding ASP.NET Core Security](https://app.pluralsight.com/library/courses/asp-dot-net-core-security-understanding/table-of-contents)  
 
 [](#concurrency)
-### Concurrency
+### Concurrency in .NET
 
 **Books**
 
 [Concurrency in C# Cookbook, 2nd Edition](https://learning.oreilly.com/library/view/concurrency-in-c/9781492054498/)  
-[Concurrency in .NET](https://learning.oreilly.com/library/view/concurrency-in-net/9781617292996/)
+[Concurrency in .NET](https://www.manning.com/books/concurrency-in-dot-net)
 
 **Resources**
 
@@ -32,7 +34,7 @@ permalink: /dotnet/
 
 **Books**
 
-[Pro .NET Memory Management: For Better Code, Performance, and Scalability](https://learning.oreilly.com/library/view/pro-net-memory/9781484240274/)  
+[Pro .NET Memory Management (2nd edition)](https://link.springer.com/book/10.1007/979-8-8688-0453-3)  
 [Pro .NET Performance](https://learning.oreilly.com/library/view/pro-net-performance/9781430244585/)  
 [Advanced .NET Debugging](https://learning.oreilly.com/library/view/advanced-net-debugging/9780321584090/)
 
@@ -66,8 +68,8 @@ permalink: /dotnet/
 
 **Books**
 
-[Unit Testing Principles, Practices, and Patterns](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/)  
-[The Art of Unit Testing, 2nd Edition](https://learning.oreilly.com/library/view/the-art-of/9781617290893/)
+[Unit Testing Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing)  
+[The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
 
 **Videos**
 
