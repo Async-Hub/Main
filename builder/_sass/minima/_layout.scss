@@ -44,7 +44,7 @@
     }
   }
 
-  @include media-query($on-medium) {
+  @media screen and (max-width: $on-medium) {
     position: absolute;
     top: 9px;
     right: $spacing-unit * 0.6;
@@ -81,7 +81,7 @@
       }
       ~ .nav-items {
         clear: both;
-        display: none
+        display: none;
       }
       &:checked {
       ~ label[for=nav-trigger] .menu-icon {
