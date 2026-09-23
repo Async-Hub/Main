@@ -2,7 +2,11 @@
 {% if disqus_shortname and jekyll.environment == "production" -%}
   <div id="disqus_thread"></div>
   <script>
-    {% assign disqus_identifier = page.id | default: page.url | absolute_url %}
+    {% if page.id %}
+      {% assign disqus_identifier = page.id %}
+    {% else %}
+      {% assign disqus_identifier = page.url | absolute_url %}
+    {% endif %}
     var disqus_config = function () {
       this.page.url = {{ page.url | absolute_url | jsonify }};
       this.page.identifier = {{ disqus_identifier | jsonify }};
