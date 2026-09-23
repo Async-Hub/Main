@@ -1,4 +1,4 @@
-{% assign disqus_shortname = site.disqus.shortname | slugify: "raw" %}
+{% assign disqus_shortname = site.disqus.shortname %}
 {% if disqus_shortname and jekyll.environment == "production" -%}
   <div id="disqus_thread"></div>
   <script>
