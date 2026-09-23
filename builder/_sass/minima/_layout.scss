@@ -398,6 +398,10 @@
       transform: rotate(45deg);
     }
     &:checked::after { border-color: $border-color-03 }
+    &:focus-visible {
+      outline: 2px solid $link-base-color;
+      outline-offset: 2px;
+    }
   }
 }
 
