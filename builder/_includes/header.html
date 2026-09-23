@@ -2,7 +2,7 @@
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
+    {%- assign page_paths = site.minima.nav_pages | default: site.header_pages | default: default_paths -%}
     {%- assign nav_titles_size = 0 -%}
     {%- for path in page_paths -%}
       {%- assign nav_page = site.pages | where: "path", path | first -%}
