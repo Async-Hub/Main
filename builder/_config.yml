@@ -25,11 +25,6 @@ plugins:
 
 # Theme-specific settings
 
-# If you want to link only specific pages in your header, use this and add the path to the pages
-# in order as they should show up.
-#header_pages:
-#  - about.md
-
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
   # Minima skin selection.
@@ -41,6 +36,11 @@ minima:
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: classic
+
+  # If you want to link only specific pages in your header, use this and add
+  # the path to the pages in order as they should show up.
+  #nav_pages:
+  #  - about.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: true
@@ -64,3 +64,6 @@ minima:
    - title: AsyncHub at X (formerly Twitter)
      icon: x-twitter
      url: "https://twitter.com/AsyncHub"
+
+  # Set to `true` to hide the link to the feed in the social links.
+  #hide_site_feed_link: false
