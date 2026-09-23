@@ -1,9 +1,10 @@
 {% if site.disqus.shortname -%}
   <div id="disqus_thread"></div>
   <script>
+    {% assign disqus_identifier = page.id | default: page.url | absolute_url %}
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.id }}';
+      this.page.identifier = '{{ disqus_identifier }}';
     };
     (function() {
       var d = document, s = d.createElement('script');

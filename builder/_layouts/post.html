@@ -22,7 +22,8 @@ layout: base
       {%- endif -%}
       {%- if page.author %}
       <div class="{% unless page.modified_date %}force-inline {% endunless %}post-authors">
-        {%- for author in page.author %}
+        {%- assign authors = page.author | arrayify -%}
+        {%- for author in authors %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
           {%- if forloop.last == false %}, {% endif -%}

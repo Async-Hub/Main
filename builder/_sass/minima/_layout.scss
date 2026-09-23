@@ -68,22 +68,15 @@
       line-height: 0;
       padding-top: 18px;
       text-align: center;
-
-      &::before {
-        font-family: "Font Awesome 7 Free";
-        font-weight: 900;
-      }
-
-      > svg path {
-        fill: $border-color-03;
-      }
     }
 
     #nav-trigger {
       ~ label[for=nav-trigger] .menu-icon {
         &::before {
-          content: "\f0c9";
-          font-size: 1.25em;
+          content: "\2630";
+          font-size: 1.35em;
+          color: $border-color-03;
+          line-height: 1;
         }
       }
       ~ .nav-items {
@@ -93,8 +86,10 @@
       &:checked {
       ~ label[for=nav-trigger] .menu-icon {
         &::before {
-          content: "\f00d";
+          content: "\00D7";
           font-size: 1.5em;
+          color: $border-color-03;
+          line-height: 1;
         }
       }
         ~ .nav-items {
