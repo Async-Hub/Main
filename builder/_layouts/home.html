@@ -43,7 +43,7 @@ layout: base
         <ul class="pagination">
         {%- if paginator.previous_page %}
           <li>
-            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page" title="Go to Page {{ paginator.previous_page }}">
+            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page" title="Go to Page {{ paginator.previous_page }}" aria-label="Go to page {{ paginator.previous_page }}">
               {{ paginator.previous_page }}
             </a>
           </li>
@@ -53,7 +53,7 @@ layout: base
           <li><div class="current-page">{{ paginator.page }}</div></li>
         {%- if paginator.next_page %}
           <li>
-            <a href="{{ paginator.next_page_path | relative_url }}" class="next-page" title="Go to Page {{ paginator.next_page }}">
+            <a href="{{ paginator.next_page_path | relative_url }}" class="next-page" title="Go to Page {{ paginator.next_page }}" aria-label="Go to page {{ paginator.next_page }}">
               {{ paginator.next_page }}
             </a>
           </li>
