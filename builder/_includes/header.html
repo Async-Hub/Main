@@ -3,10 +3,16 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
-    {%- assign page_titles = site.pages | map: 'title' | compact %}
+    {%- assign nav_titles_size = 0 -%}
+    {%- for path in page_paths -%}
+      {%- assign nav_page = site.pages | where: "path", path | first -%}
+      {%- if nav_page.title -%}
+        {%- assign nav_titles_size = nav_titles_size | plus: 1 -%}
+      {%- endif -%}
+    {%- endfor -%}
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
-    {%- unless page_titles == empty %}
+    {%- if nav_titles_size > 0 %}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" />
         <label for="nav-trigger">
@@ -15,6 +21,6 @@
 
         {% include nav-items.html paths = page_paths %}
       </nav>
-    {%- endunless %}
+    {%- endif %}
   </div>
 </header>

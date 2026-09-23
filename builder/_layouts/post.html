@@ -20,9 +20,10 @@ layout: base
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {%- if page.author %}
+      {%- assign authors = page.authors | default: page.author -%}
+      {%- if authors %}
       <div class="{% unless page.modified_date %}force-inline {% endunless %}post-authors">
-        {%- assign authors = page.author | arrayify -%}
+        {%- assign authors = authors | arrayify -%}
         {%- for author in authors %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
@@ -37,14 +38,12 @@ layout: base
     {{ content }}
   </div>
 
-  {% if jekyll.environment == 'production' -%}
-    {% if page.comments == false -%}
-    <div class="comments-disabled-message">
-      Comments have been disabled for this post.
-    </div>
-    {% else -%}
-      {%- include comments.html -%}
-    {% endif -%}
+  {% if page.comments == false -%}
+  <div class="comments-disabled-message">
+    Comments have been disabled for this post.
+  </div>
+  {% else -%}
+    {%- include comments.html -%}
   {% endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>

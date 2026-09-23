@@ -1,14 +1,14 @@
-{% if site.disqus.shortname -%}
+{% if site.disqus.shortname and jekyll.environment == "production" -%}
   <div id="disqus_thread"></div>
   <script>
     {% assign disqus_identifier = page.id | default: page.url | absolute_url %}
     var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ disqus_identifier }}';
+      this.page.url = {{ page.url | absolute_url | jsonify }};
+      this.page.identifier = {{ disqus_identifier | jsonify }};
     };
     (function() {
       var d = document, s = d.createElement('script');
-      s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+      s.src = {{ "https://" | append: site.disqus.shortname | append: ".disqus.com/embed.js" | jsonify }};
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
     })();
